@@ -1,0 +1,43 @@
+Design database for Zen class programme
+----------------------------------------
+Users = [
+    { 
+        "user_id": 1, 
+        "name": "John Doe", 
+        "email": "john.doe@example.com", 
+        "mentor_name": "Balu" 
+
+    },
+    { 
+        "user_id": 2, 
+        "name": "Jane Smith", 
+        "email": "jane.smith@example.com",  
+        "mentor_name": "Rupan" 
+
+    },
+    { 
+        "user_id": 3, 
+        "name": "Bob Johnson", 
+        "email": "bob.johnson@example.com", 
+        "mentor_name": "Sathish" 
+
+    },
+    { 
+        "user_id": 4, 
+        "name": "Alice Lee", 
+        "email": "alice.lee@example.com",  
+        "mentor_name": "Nagaraj" 
+
+    },
+    { 
+        "user_id": 5, 
+        "name": "Charlie Brown", 
+        "email": "charlie.brown@example.com",  
+        "mentor_name": "Sathish" 
+
+    }
+]
+------------------------------------------------------------------------------------------------------------------
+
+
+
